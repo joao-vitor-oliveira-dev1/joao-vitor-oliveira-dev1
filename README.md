@@ -31,8 +31,11 @@ class QuemSouEu:
 Estatísticas do Github
 
 <img src="https://github-readme-stats.vercel.app/api?username=joao-vitor-oliveira-dev1&show_icons=true&count_private=true&theme=github_dark">	<img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-vitor-oliveira-dev1&theme=blueberry_duo"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-oliveira-dev1&layout=compact&theme=github_dark"/>	
+
+
+
 Linguagens de Programação
+
 <p>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
@@ -83,7 +86,7 @@ Conecte-se Comigo
 <p align="center">
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-oliveira-547884323/"><img alt="Linkedin" title="João Vitor de Oliveira Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/joao-vitor-oliveira-dev1"><img alt="Github" title="João Vitor de Oliveira Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="joao.v.oliveira.7811@gmail.com"><img alt="Gmail" title="João Vitor de Oliveira Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
+<a href="joao.v.oliveira.7811@gmail.com"><img alt="Gmail" title="João Vitor de Oliveira Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <!-- Adicione outros links como Twitter, Instagram, etc., seguindo o modelo -->
 </p>
 
